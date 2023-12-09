@@ -1,2 +1,2 @@
 # MATH1564
-Class Notes + HW
+This folder stores class notes + HWs + other materials for GT MATH1564.
